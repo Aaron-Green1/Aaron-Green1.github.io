@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Competitive Front End Developer</h1>
-     <p>I'm a fron end web developer who is super competitive in all that I do!</p>
+     <p>I'm a front end web developer who is super competitive in all that I do!</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
