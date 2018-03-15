@@ -3,7 +3,7 @@ layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
 short-description: Build a production quality SaaS app that allows users to create their own wikis.
-
+published: false
 ---
 
 {:.center}
