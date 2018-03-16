@@ -8,7 +8,7 @@ title: My Experience at Bloc
 1. They taught the languages I wanted to learn
 2. They offered online courses
 3. Their price _(let's be real here)_
-4. The mentorship program
+4. The mentor program
 
 While I was in college, working towards an unknown goal in computer science, I took a programming course as an elective (C++).  This course restored my childhood hobby of programming.  I quickly decided I wanted to get back into web development and my research showed me just how much the industry had changed since my little HTML/CSS/Flash sites I used to create in middle school with Dreamweaver.
 
@@ -26,7 +26,7 @@ While Bloc isn't the only code school to offer online courses, it was one of the
 
 As for the price, it was actually cheaper than most of the ones I had researched and I was fortunate enough to be offered a $1000 scholarship due to my past experience and the effort I had put into my future before opting to go to a coding school - they felt I was a sure bet!  _And I am!_
 
-### The Mentorship Program
+### The Mentor Program
 
 One unique thing I found at Bloc was the mentor program.  For me, being a self starter, learning online came easy.  But there was always something, somewhere that would snag me.  Something that, despite all the internet research and all the threads about the topic on [Stack Overflow](https://stackoverflow.com/), I just wouldn't get it.  For me, it was DOM scripting.  Something about the long chains of dot notation that would confuse me beyond all reason.  This is just a minor example, but it blew my mind, when I first started learning the DOM:
 
