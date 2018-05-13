@@ -1,0 +1,12 @@
+---
+layout: post
+title: Biggest Challenges I've Faced, When Learning to Develop
+---
+
+The biggest challenge I've faced when learning how to develop has not been a developing challenge.  What I mean by that is, the coding itself hasn't been a challenge.  Yes, there are a few parts that I get snagged on and they require a trip to the ol' Google, Mentor, Slack Channel, or Stack Overflow; but nothing as challenging as _being an adult_.
+
+Since I've began my endeavor into the development world, I've learned that I would have to be making way more sacrifices than I originally planned.  This isn't necessarily a bad thing, either.  Being situated as an adult has made it more difficult to be a development student as I, unlike most people seeking this career change, have bills to pay and that means that, while I'm still learning to be a developer, I need a job to pay said bills.  Yes, some of these bills are my own fault: _I did not need a brand new car when a cash car would have done the same job just fine_, and I've accepted that.
+
+Another huge challenge I've face was my job itself.  When I first signed up for this apprenticeship, I was working 44 hours a week - 10 hours Monday and Tuesday and 8 hours Wednesday through Friday.  It was manageable, it was understood that Mondays and Tuesdays would be long days for me.  Well, that quickly started changing as we started losing people.  We went from two ten hour shifts a week, to three.  That turned to four.  Eventually, we were working five ten hour shifts a week and having five long days left me not even wanting to look at a computer on my days off.  After falling behind, I knew I had to make a change, so that's what I did.  I found a new job that only makes you work your 40 a week and pays so much better than the previous.  This is helping me code more and alleviating much stress as I no longer have to worry about how many hours I'm going to have to work this week and if I'm going to have enough money to pay the required bills.
+
+Since starting the new job, I've been coding almost daily and have made a lot of progress to help make up for where I fell behind.  I still made a few more sacrifices than I intended, but I am slowly bringing them back just not letting them consume as much of my time as before.  All-in-all, this change  has been huge for me and will only get better, once my apprenticeship is complete and I move on to bigger and better things!
